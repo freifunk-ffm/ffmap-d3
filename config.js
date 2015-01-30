@@ -2,10 +2,6 @@ define("config", function () {
   /* after making any changes here enter "grunt" in your terminal to apply the changes */
   "use strict"
 
-  var ffmapConfig = {
-    // link to your main community site:
-    url:       "/",
-
 var ffmapConfig = {
   // link to your main community site:
   url:       "http://ffm.freifunk.net",
